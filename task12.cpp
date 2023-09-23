@@ -9,5 +9,5 @@ cout<< "Width of the single wall (in meters): ";
 cin >>w;
 cout <<"Height of the single wall (in meters): ";
 cin >> h;
-cout << "Number of walls you can paint: " <<100/(w*h) ;
+cout << "Number of walls you can paint: " <<sm/(w*h) ;
 }
